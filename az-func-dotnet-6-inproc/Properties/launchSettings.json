@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_func_dotnet_6_inproc": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7236",
+      "launchBrowser": false
+    }
+  }
+}
